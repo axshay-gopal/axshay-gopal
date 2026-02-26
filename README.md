@@ -4,21 +4,6 @@ I am a final-year engineering student with a strong interest in backend developm
 
 ---
 
-## 🔥 Current Project
-### 🚀 Productivity Web Application  
-
-A full-stack productivity platform focused on task management and workflow efficiency.  
-
-- 📝 Task creation & management  
-- 🔐 Secure authentication  
-- 🗄️ Structured database handling  
-- ⚡ Clean backend architecture  
-- 📦 RESTful API design  
-
-This project reflects my journey toward building production-ready backend systems.
-
----
-
 
 ### 🎯 2026 Vision
 
