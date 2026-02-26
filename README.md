@@ -1,10 +1,10 @@
-Glad you’re here 🤟
+## Glad you’re here 🤟
 
 I am a final-year engineering student with a strong interest in backend development and system design. I enjoy building server-side applications, designing REST APIs, managing databases, and understanding how scalable systems work behind the scenes. My focus is on writing clean, efficient code and developing applications that are reliable, secure, and production-ready.
 
 ---
 
-
+## 🔥 Current Project
 ### 🚀 Productivity Web Application  
 
 A full-stack productivity platform focused on task management and workflow efficiency.  
@@ -20,7 +20,7 @@ This project reflects my journey toward building production-ready backend system
 ---
 
 
-🎯 2026 Vision
+### 🎯 2026 Vision
 
 - 🚀 Master Backend Engineering  
 - 🏗️ Build scalable, real-world applications  
@@ -30,7 +30,7 @@ This project reflects my journey toward building production-ready backend system
 ---
 
 
-🤝 Let's Connect
+### 🤝 Let's Connect
 
 - 💼 LinkedIn: www.linkedin.com/in/akshay-gopal-b69bb9271
 - 📧 Email: akshaygopalbp@gmail.com
