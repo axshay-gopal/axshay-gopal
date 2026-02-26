@@ -5,7 +5,6 @@ I am a final-year engineering student with a strong interest in backend developm
 ---
 
 
-
 ### 🚀 Productivity Web Application  
 
 A full-stack productivity platform focused on task management and workflow efficiency.  
@@ -21,7 +20,6 @@ This project reflects my journey toward building production-ready backend system
 ---
 
 
-
 🎯 2026 Vision
 
 - 🚀 Master Backend Engineering  
@@ -29,13 +27,7 @@ This project reflects my journey toward building production-ready backend system
 - ☁️ Learn DevOps & deployment pipelines  
 - 💡 Maskter Datastructures and Algorithms  
 
-
-
-> “Start with something simple and small, then expand over time. If people call it a 'toy' you're definitely onto something.”💻
-
-
-
-
+---
 
 
 🤝 Let's Connect
@@ -43,3 +35,11 @@ This project reflects my journey toward building production-ready backend system
 - 💼 LinkedIn: www.linkedin.com/in/akshay-gopal-b69bb9271
 - 📧 Email: akshaygopalbp@gmail.com
 - 🗣️ Discord: axshaygopal
+
+
+
+
+> “Start with something simple and small, then expand over time. If people call it a 'toy' you're definitely onto something.”💻
+
+
+
