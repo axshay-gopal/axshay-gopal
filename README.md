@@ -10,7 +10,8 @@ I am a final-year engineering student with a strong interest in backend developm
 - 🚀 Master Backend Engineering  
 - 🏗️ Build scalable, real-world applications  
 - ☁️ Learn DevOps & deployment pipelines  
-- 💡 Maskter Datastructures and Algorithms  
+- 💡 Maskter Datastructures and Algorithms
+   
 
 ---
 
