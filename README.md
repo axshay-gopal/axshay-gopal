@@ -22,6 +22,7 @@ I am a final-year engineering student with a strong interest in backend developm
 - 💼 LinkedIn: www.linkedin.com/in/akshay-gopal-b69bb9271
 - 📧 Email: akshaygopalbp@gmail.com
 - 🗣️ Discord: axshaygopal
+- 🐦 X : axshaygopal
 
 
 
