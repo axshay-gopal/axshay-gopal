@@ -22,7 +22,7 @@ I am a final-year engineering student with a strong interest in backend developm
 
 
 
-> “Start with something simple and small, then expand over time. If people call it a 'toy' you're definitely onto something.”💻
+> “Start with something simple and small, then expand over time.
 
 
 
